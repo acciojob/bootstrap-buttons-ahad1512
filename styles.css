@@ -1,2 +1,20 @@
 
 /* Your CSS Code here. */
+#btn1{
+	background-color:#4E25FF;
+}
+#btn2{
+	background-color:#FFFFFF;
+	color:black;
+	border:1px solid black;
+}
+#btn3{
+       padding:10px;
+	padding-inline:20px;
+}
+#btn5{
+	width:100%;
+}
+#btn8{
+	text-decoration:underline darkmagenta;
+}
